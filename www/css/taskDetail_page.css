@@ -1,0 +1,275 @@
+.mediaViewInfo {
+  --web-view-name: iPhone 12 Pro Max – 2;
+  --web-view-id: iPhone_12_Pro_Max__2;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: iPhone_12_Pro_Max__2;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#iPhone_12_Pro_Max__2 {
+  position: absolute;
+  width: 428px;
+  height: 926px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: iPhone 12 Pro Max – 2;
+  --web-view-id: iPhone_12_Pro_Max__2;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#navigationBar {
+  fill: rgba(99, 154, 162, 1);
+}
+.navigationBar {
+  position: absolute;
+  overflow: visible;
+  width: 428px;
+  height: 76px;
+  left: 1px;
+  top: 0px;
+}
+#Package_Delivery {
+  left: 95px;
+  top: 24px;
+  position: absolute;
+  overflow: visible;
+  width: 218px;
+  height: 31px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+}
+#userProfileButton {
+  fill: rgba(207, 230, 235, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.userProfileButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.224));
+  position: absolute;
+  overflow: visible;
+  width: 78px;
+  height: 74px;
+  left: 360px;
+  top: 17px;
+}
+#JK {
+  left: 374px;
+  top: 30px;
+  position: absolute;
+  overflow: visible;
+  width: 22px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgba(112, 112, 112, 1);
+}
+#containerViewFirstPart {
+  fill: rgba(255, 255, 255, 1);
+}
+.containerViewFirstPart {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 436px;
+  height: 222px;
+  left: 11px;
+  top: 76px;
+}
+#cancelButton {
+  fill: rgba(99, 154, 162, 1);
+}
+.cancelButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.416));
+  position: absolute;
+  overflow: visible;
+  width: 151px;
+  height: 84px;
+  left: 155px;
+  top: 186px;
+}
+#startButton {
+  fill: rgba(99, 154, 162, 1);
+}
+.startButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.416));
+  position: absolute;
+  overflow: visible;
+  width: 151px;
+  height: 84px;
+  left: 24px;
+  top: 186px;
+}
+#completeButton {
+  fill: rgba(99, 154, 162, 1);
+}
+.completeButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.424));
+  position: absolute;
+  overflow: visible;
+  width: 151px;
+  height: 84px;
+  left: 287px;
+  top: 186px;
+}
+#Start {
+  left: 40px;
+  top: 201px;
+  position: absolute;
+  overflow: visible;
+  width: 95px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 1);
+}
+#Cancel {
+  left: 167px;
+  top: 201px;
+  position: absolute;
+  overflow: visible;
+  width: 101px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 1);
+}
+#Complete {
+  left: 300px;
+  top: 201px;
+  position: absolute;
+  overflow: visible;
+  width: 96px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 1);
+}
+#Task_Name_1ehfuebfeub_fjbwfwbf {
+  left: 24px;
+  top: 102px;
+  position: absolute;
+  overflow: visible;
+  width: 385px;
+  height: 60px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(5, 0, 0, 1);
+}
+#containerViewSecondPart {
+  fill: rgba(255, 255, 255, 1);
+}
+.containerViewSecondPart {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 436px;
+  height: 214px;
+  left: 11px;
+  top: 279px;
+}
+#containerViewThirdPart {
+  fill: rgba(255, 255, 255, 1);
+}
+.containerViewThirdPart {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 436px;
+  height: 463px;
+  left: 11px;
+  top: 479px;
+}
+#Task_name__Task_name {
+  left: 24px;
+  top: 300px;
+  position: absolute;
+  overflow: visible;
+  width: 253px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(5, 0, 0, 1);
+}
+#Location_Convert_to_address {
+  left: 24px;
+  top: 346px;
+  position: absolute;
+  overflow: visible;
+  width: 244px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(5, 0, 0, 1);
+}
+#Task_State_Pending {
+  left: 24px;
+  top: 412px;
+  position: absolute;
+  overflow: visible;
+  width: 225px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(5, 0, 0, 1);
+}
+#barcodeImageButtonView {
+  filter: drop-shadow(5px 4px 10px rgba(0, 0, 0, 0.435));
+  position: absolute;
+  width: 128px;
+  height: 124px;
+  left: 267px;
+  top: 312px;
+  overflow: visible;
+}
+#icons8-back-64 {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.416));
+  position: absolute;
+  width: 33px;
+  height: 31px;
+  left: 15px;
+  top: 24px;
+  overflow: visible;
+}

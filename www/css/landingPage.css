@@ -1,0 +1,191 @@
+/* .userProfileButton {
+  border: thin;
+  border-color: black;
+  border-width: thin;
+  border-radius: 1px;
+  text-decoration-color: black;
+  background-color: white;
+  margin-right: 10px;
+  text-align: center;
+  display: inline-block;
+}
+
+.navigationTitle {
+  text-align: center;
+  font-size: 24px;
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: ;
+  display: inline-block;
+} */
+
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightgray;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  left: 0;
+  right: 0;
+  height: 100px;
+} */
+
+/* li {
+  float: center;
+} */
+
+/* li title {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 24px;
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: 700;
+}
+
+li button {
+  display: block;
+  color: rgb(16, 129, 129);
+  text-align: center;
+  padding: 10px 10px;
+  background-color: white;
+  border-color: rgb(16, 129, 129);
+  border-radius: 50px;
+  border-width: 2px;
+  float: right;
+  font-weight: 500;
+}
+
+li button:hover:not(.userProfileButton) {
+  background-color: gray;
+}
+
+.userProfileButton {
+  background-color: white;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.navigationBar {
+
+} */
+
+.mediaViewInfo {
+  --web-view-name: iPhone 12 Pro Max – 1;
+  --web-view-id: iPhone_12_Pro_Max__1;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: iPhone_12_Pro_Max__1;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#iPhone_12_Pro_Max__1 {
+  position: absolute;
+  width: 428px;
+  height: 926px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: iPhone 12 Pro Max – 1;
+  --web-view-id: iPhone_12_Pro_Max__1;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+
+hr {
+  width: 100%;
+  height: 2px;
+  /* background-color: black; */
+  /* margin-bottom: 7px;  
+margin-right: auto;  
+margin-left: auto;  
+margin-top: 9px;   */
+  border-width: 2px;
+  color: black;
+}
+
+.navigationBar {
+  /* position: absolute;
+  overflow: visible;
+  width: 100%;
+  height: 76px;
+  left: 1px;
+  top: 0px;
+  border-width: 2px;
+  border-top-color: white;
+  border-left-color: white;
+  border-right-color: white;
+  border-bottom-color: black;
+  fill: white; */
+  white-space: nowrap;
+}
+#Package_Delivery {
+  left: 25%;
+  top: 24px;
+  /* position: absolute; */
+  /* overflow: visible; */
+  width: 203px;
+  height: 31px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+  /* display: inline-block; */
+}
+#userProfileButton {
+  fill: rgba(207, 230, 235, 1);
+  /* stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto; */
+}
+.userProfileButton {
+  /* filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.224)); */
+  /* position: fixed; */
+  /* overflow: visible; */
+  width: 34px;
+  height: 34px;
+  right: 10px;
+  top: 17px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgb(39, 92, 99);
+  border-radius: 39px;
+  border-width: 2px;
+  border-color: rgb(39, 92, 99);
+  /* display: inline-block; */
+}
+
+header {
+  background-color: rgb(226, 224, 224);
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  /* box-shadow: 0 0 25px 0 black; */
+}

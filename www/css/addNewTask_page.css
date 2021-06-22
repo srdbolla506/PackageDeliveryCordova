@@ -1,0 +1,231 @@
+.mediaViewInfo {
+  --web-view-name: iPhone 12 Pro Max – 5;
+  --web-view-id: iPhone_12_Pro_Max__5;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: iPhone_12_Pro_Max__5;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#iPhone_12_Pro_Max__5 {
+  position: absolute;
+  width: 428px;
+  height: 926px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: iPhone 12 Pro Max – 5;
+  --web-view-id: iPhone_12_Pro_Max__5;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#navigationBar {
+  fill: rgba(99, 154, 162, 1);
+}
+.navigationBar {
+  position: absolute;
+  overflow: visible;
+  width: 428px;
+  height: 76px;
+  left: 1px;
+  top: 0px;
+}
+#Add_New_Task {
+  left: 95px;
+  top: 24px;
+  position: absolute;
+  overflow: visible;
+  width: 218px;
+  height: 31px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+}
+#icons8-back-64 {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.416));
+  position: absolute;
+  width: 33px;
+  height: 31px;
+  left: 15px;
+  top: 24px;
+  overflow: visible;
+}
+#addNewTaskCompleteView {
+  fill: rgba(255, 255, 255, 1);
+}
+.addNewTaskCompleteView {
+  position: absolute;
+  overflow: visible;
+  width: 428px;
+  height: 790px;
+  left: 0px;
+  top: 136px;
+}
+#taskNameField {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.taskNameField {
+  position: absolute;
+  overflow: visible;
+  width: 389px;
+  height: 50px;
+  left: 19px;
+  top: 153px;
+}
+#scheduledDateField {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.scheduledDateField {
+  position: absolute;
+  overflow: visible;
+  width: 389px;
+  height: 50px;
+  left: 19px;
+  top: 230px;
+}
+#selectLocationField {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.selectLocationField {
+  position: absolute;
+  overflow: visible;
+  width: 389px;
+  height: 50px;
+  left: 19px;
+  top: 310px;
+}
+#locationMapView {
+  fill: rgba(255, 255, 255, 1);
+}
+.locationMapView {
+  position: absolute;
+  overflow: visible;
+  width: 389px;
+  height: 421px;
+  left: 19px;
+  top: 371px;
+}
+#addNewTaskButton {
+  fill: rgba(99, 154, 162, 1);
+}
+.addNewTaskButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.416));
+  position: absolute;
+  overflow: visible;
+  width: 371px;
+  height: 80px;
+  left: 45px;
+  top: 840px;
+}
+#Add_new_task {
+  left: 82px;
+  top: 854px;
+  position: absolute;
+  overflow: visible;
+  width: 254px;
+  height: 22px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 1);
+}
+#Task_Name {
+  left: 32px;
+  top: 167px;
+  position: absolute;
+  overflow: visible;
+  width: 364px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  color: rgba(211, 211, 211, 1);
+}
+#Scheduled_Date_Time {
+  left: 32px;
+  top: 245px;
+  position: absolute;
+  overflow: visible;
+  width: 304px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  color: rgba(211, 211, 211, 1);
+}
+#Location {
+  left: 32px;
+  top: 324px;
+  position: absolute;
+  overflow: visible;
+  width: 329px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  color: rgba(211, 211, 211, 1);
+}
+#datePickerButton {
+  fill: rgba(99, 154, 162, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.datePickerButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.22));
+  position: absolute;
+  overflow: visible;
+  width: 80px;
+  height: 80px;
+  left: 358px;
+  top: 230px;
+}
+#datePickerImage {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 363px;
+  top: 234px;
+  overflow: visible;
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no"
+    />
+    <title>Package Delivery</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      id="applicationStylesheet"
+      href="../css/login_page.css"
+    />
+    <!-- <script id="applicationScript" type="text/javascript" src="login_page.js"></script> -->
+  </head>
+  <body>
+    <!-- <div id="iPhone_12_Pro_Max__3"> -->
+    <form>
+      <!-- <div
+          id="Rectangle_2"
+          rx="0"
+          ry="0"
+          x="0"
+          y="0"
+          width="394"
+          height="858"
+        ></div> -->
+      <div id="Package_Delivery_"><span>Package Delivery</span><br /></div>
+      <div>
+        <input
+          type="text"
+          name="Username"
+          id="usernameTextField"
+          class="usernameTextField"
+          placeholder="Username"
+        />
+      </div>
+      <div>
+        <input
+          type="text"
+          name="Password"
+          id="passwordTextField"
+          class="passwordTextField"
+          placeholder="Password"
+          rx="25"
+          ry="25"
+          x="0"
+          y="0"
+          width="341"
+          height="50"
+        />
+      </div>
+      <div class="enableFingerPrintCheckbox">
+        <input
+          type="checkbox"
+          name="enableFingerPrintCheckbox"
+          id="enableFingerPrintCheckbox"
+          rx="5"
+          ry="5"
+          x="0"
+          y="0"
+          width="20"
+          height="20"
+        />
+      </div>
+      <div id="Enable_Fingerprint_Authenticat">
+        <label>Enable Fingerprint Authentication</label>
+      </div>
+      <div>
+        <button
+          value="Login"
+          id="loginButton"
+          class="loginButton"
+          rx="25"
+          ry="25"
+          x="0"
+          y="0"
+          width="341"
+          height="50"
+          onclick="onLoginClick();"
+        >
+          Login
+        </button>
+      </div>
+    </form>
+    <!-- </div> -->
+
+    <script src="../cordova.js"></script>
+    <script src="../js/login_page.js"></script>
+    <script src="../js/SQLiteStorageService.js"></script>
+    <script src="../js/class_objects.js"></script>
+    <script type="text/javascript" src="../resources/users.json"></script>
+    <!-- <script>
+      
+    </script> -->
+    <!-- <script src="../../plugins/com.srdbolla.sqlitePlugin/www/SqlitePlugin.js"></script> -->
+  </body>
+</html>

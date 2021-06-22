@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="../css/loginPage.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <!-- <h1> -->
+    <form>
+      <div>
+        <input
+          type="text"
+          class="usernameTextField"
+          id="username-text-field"
+          placeholder="Username"
+        />
+      </div>
+      <div>
+        <input
+          type="text"
+          class="passwordTextField"
+          id="password-text-field"
+          placeholder="Password"
+        />
+      </div>
+
+      <div class="checkbox">
+        <label class="checkboxLabel"
+          ><input id="touchIDCheckBox" type="checkbox" />Enable Fingerprint
+          Authentication</label
+        >
+      </div>
+
+      <button id="loginButtonSubmit" type="submit" class="submitButton">
+        Login
+      </button>
+    </form>
+    <script charset="utf-8" src="../cordova.js"></script>
+    <script src="../js/login_page.js"></script>
+    <script src="../js/SQLiteStorageService.js"></script>
+    <script src="../js/class_objects.js"></script>
+    <!-- <script src="../../plugins/cordova-sqlite-storage/www/SQLitePlugin.js"></script> -->
+
+    <script>
+      // function onSubmitButtonClick() {
+      //   window.location.href = "/landingPage.html";
+      //   return false;
+      // }
+    </script>
+  </body>
+</html>
