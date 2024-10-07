@@ -1,0 +1,124 @@
+/* .mediaViewInfo {
+  --web-view-name: iPhone 12 Pro Max – 3;
+  --web-view-id: iPhone_12_Pro_Max__3;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: iPhone_12_Pro_Max__3;
+} */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+/* #iPhone_12_Pro_Max__3 {
+  position: absolute;
+  width: 428px;
+  height: 926px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: iPhone 12 Pro Max – 3;
+  --web-view-id: iPhone_12_Pro_Max__3;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Rectangle_2 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_2 {
+  position: absolute;
+  overflow: visible;
+  width: 394px;
+  height: 858px;
+  left: 18px;
+  top: 36px;
+} */
+/* #usernameTextField {
+} */
+.usernameTextField,
+.passwordTextField,
+.loginButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.224));
+  position: absolute;
+  overflow: visible;
+  width: 75%;
+  height: 50px;
+  left: 12%;
+  white-space: nowrap;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  border-radius: 20px;
+  outline: none;
+}
+
+.usernameTextField,
+.passwordTextField {
+  color: black;
+  padding: 10px;
+  text-align: left;
+  fill: rgba(255, 255, 255, 1);
+}
+
+.usernameTextField {
+  top: 325px;
+}
+.passwordTextField {
+  top: 400px;
+}
+
+.loginButton {
+  top: 590px;
+  text-align: center;
+  color: black;
+  fill: rgba(99, 154, 162, 1);
+  background-color: rgba(99, 154, 162, 1);
+  font-weight: bold;
+}
+#Package_Delivery_ {
+  left: 59px;
+  top: 226px;
+  position: absolute;
+  overflow: visible;
+  width: 319px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgba(0, 0, 0, 1);
+}
+#enableFingerPrintCheckbox {
+  fill: rgba(255, 255, 255, 1);
+}
+.enableFingerPrintCheckbox {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.424));
+  position: absolute;
+  overflow: visible;
+  width: 50px;
+  height: 50px;
+  left: 55px;
+  top: 490px;
+}
+#Enable_Fingerprint_Authenticat {
+  left: 85px;
+  top: 490px;
+  position: absolute;
+  overflow: visible;
+  width: 276px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  color: rgba(0, 0, 0, 1);
+}

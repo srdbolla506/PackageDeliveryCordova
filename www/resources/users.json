@@ -1,0 +1,66 @@
+[
+    {
+        "user_name": "harry.wilson",
+        "password": "1234",
+        "firstName": "Harry",
+        "lastName": "Wilson",
+        "email": "harry.wilson@yopmail.com",
+        "role": "admin",
+        "tasks": [
+            {
+                "id": "task1",
+                "taskName": "Pick Up Package 1234",
+                "scheduledDate": "2021-06-10 18:25",
+                "state": "pending",
+                "barcodeImage": "",
+                "locations": [
+                    {
+                        "id": "Location1",
+                        "date": "2021-06-03 18:25",
+                        "latitude": 17.686815,
+                        "longitude": 83.218483
+                    },
+                    {
+                        "id": "Location2",
+                        "date": "2021-06-02 18:25",
+                        "latitude": 16.989065,
+                        "longitude": 82.247467
+                    }
+                ]
+                
+            },
+            {
+                "id": "task2",
+                "taskName": "Deliver Package 1234",
+                "scheduledDate": "2021-06-11 18:25",
+                "state": "pending",
+                "barcodeImage": "",
+                "locations": [
+                    {
+                        "id": "Location1",
+                        "date": "2021-06-03 18:25",
+                        "latitude": 17.686815,
+                        "longitude": 83.218483
+                    },
+                    {
+                        "id": "Location2",
+                        "date": "2021-06-02 18:25",
+                        "latitude": 16.989065,
+                        "longitude": 82.247467
+                    }
+                ]
+                
+            }
+        ]
+    },
+    {
+        "user_name": "james.larry",
+        "firstName": "James",
+        "password": "12345",
+        "lastName": "Larry",
+        "email": "james.larry@yopmail.com",
+        "role": "non-admin",
+        "tasks": []
+    }
+]
+ 

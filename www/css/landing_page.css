@@ -1,0 +1,289 @@
+.mediaViewInfo {
+  --web-view-name: iPhone 12 Pro Max – 1;
+  --web-view-id: iPhone_12_Pro_Max__1;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: iPhone_12_Pro_Max__1;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#iPhone_12_Pro_Max__1 {
+  position: absolute;
+  width: 428px;
+  height: 926px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: iPhone 12 Pro Max – 1;
+  --web-view-id: iPhone_12_Pro_Max__1;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+/* #navigationBar {
+  
+} */
+.navigationBar {
+  position: absolute;
+  overflow: visible;
+  width: 100%;
+  height: 76px;
+  left: 1px;
+  top: 0px;
+  border-width: 2px;
+}
+#Package_Delivery {
+  left: 113px;
+  top: 24px;
+  position: absolute;
+  overflow: visible;
+  width: 203px;
+  height: 31px;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+}
+#userProfileButton {
+  fill: rgba(207, 230, 235, 1);
+  /* stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto; */
+}
+.userProfileButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.224));
+  position: absolute;
+  overflow: visible;
+  width: 78px;
+  height: 74px;
+  left: 360px;
+  top: 17px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgba(112, 112, 112, 1);
+  border-radius: 39px;
+  border-width: 2px;
+  border-color: rgba(112, 112, 112, 1);
+}
+/* #JK {
+  left: 374px;
+  top: 30px;
+  position: absolute;
+  overflow: visible;
+  width: 22px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgba(112, 112, 112, 1);
+} */
+#containerViewFirstPart {
+  fill: rgba(255, 255, 255, 1);
+}
+.containerViewFirstPart {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 435px;
+  height: 222px;
+  left: 13px;
+  top: 76px;
+}
+#dateField {
+  fill: rgba(255, 255, 255, 1);
+  /* stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto; */
+}
+.dateField {
+  position: absolute;
+  overflow: visible;
+  width: 384px;
+  height: 50px;
+  left: 24px;
+  top: 102px;
+}
+#datePickerButton {
+  fill: rgba(99, 154, 162, 1);
+  /* stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto; */
+}
+.datePickerButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.416));
+  position: absolute;
+  overflow: visible;
+  width: 50px;
+  height: 50px;
+  left: 358px;
+  top: 102px;
+
+  /* position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 365px;
+  top: 108px;
+  overflow: visible; */
+}
+/* #datePickerImage {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 365px;
+  top: 108px;
+  overflow: visible;
+} */
+#showNotificationTokenButton {
+  fill: rgba(99, 154, 162, 1);
+}
+.showNotificationTokenButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.416));
+  position: absolute;
+  overflow: visible;
+  width: 212px;
+  height: 84px;
+  left: 226px;
+  top: 186px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 1);
+}
+#addTaskButton {
+  fill: rgba(99, 154, 162, 1);
+}
+.addTaskButton {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.361));
+  position: absolute;
+  overflow: visible;
+  width: 212px;
+  height: 84px;
+  left: 24px;
+  top: 186px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 1);
+}
+/* #Add_Task {
+  left: 39px;
+  top: 201px;
+  position: absolute;
+  overflow: visible;
+  width: 163px;
+  height: 31px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 1);
+} */
+/* #Show_notification_token_ {
+  left: 236px;
+  top: 189px;
+  position: absolute;
+  overflow: hidden;
+  width: 161px;
+  height: 45px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 1);
+} */
+#tasksTableView {
+  fill: rgba(255, 255, 255, 1);
+}
+.tasksTableView {
+  position: absolute;
+  overflow: visible;
+  width: 427px;
+  height: 647px;
+  left: 1px;
+  top: 279px;
+}
+#tableViewCell1 {
+  fill: rgba(255, 255, 255, 1);
+}
+.tableViewCell1 {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 435px;
+  height: 112px;
+  left: 13px;
+  top: 286px;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  color: rgba(0, 0, 0, 1);
+}
+/* #Task_Name_Ggfccfcfcfcfcfcfcf_ {
+  left: 24px;
+  top: 305px;
+  position: absolute;
+  overflow: hidden;
+  width: 351px;
+  height: 52px;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  color: rgba(0, 0, 0, 1);
+} */
+#ID22-06-2021_1105_PM {
+  left: 39px;
+  top: 116px;
+  position: absolute;
+  overflow: visible;
+  width: 300px;
+  height: 28px;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  color: rgba(0, 0, 0, 1);
+}
+#icons8-chevron-right-30 {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.224));
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 384px;
+  top: 315px;
+  overflow: visible;
+}
